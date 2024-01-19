@@ -1,0 +1,31 @@
+.loi{
+    border-radius:50px;/*rounded corners*/
+    border-bottom-color: aqua;
+    color:red;
+    border-right-color:red;
+    border-top-color: yellow;
+    border-left-color:darkgreen;
+}
+.oi{
+    color:green;
+    border-color: aqua;
+    border-bottom-color:aqua ;
+    border-right-color:aqua ;
+    border-top-color:aqua;
+    border-left-color: aqua;
+    animation:blink 1.5s inputbox-onclick 0s iteration-count top fill-mode;
+box-shadow:0 0 3px 0 rgba(red, green, blue);
+}
+.po{
+    text-align: center;
+    justify-content: center;
+
+}
+.IOP{
+    width:50%;
+}
+.BTN{
+  color: blue;
+  background-color: black;
+    
+}
